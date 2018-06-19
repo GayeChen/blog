@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "giab": "^1.0.8"
+  },
+  "name": "blog",
+  "description": "<!--giab:issue_list_start--> your articles will be shown here <!--giab:issue_list_end-->",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayeChen/blog.git"
+  },
+  "author": "chengxiao <1580850542@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GayeChen/blog/issues"
+  },
+  "homepage": "https://github.com/GayeChen/blog#readme"
+}
