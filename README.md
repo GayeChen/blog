@@ -1,7 +1,6 @@
-## 前端开发过程中的一些经验和个人收集的知识点分享出来
+## 这是我的前端博客，前端路上的一些探索和点击收藏，希望能对你有所帮助
 
+#### 面试题
 <!--giab:issue_list_start-->
-- [系统知识书单](https://github.com/GayeChen/blog/issues/1)
-- [面试题系列-HTML](https://github.com/GayeChen/blog/issues/2)
-- [面试题系列-CSS](https://github.com/GayeChen/blog/issues/3)
+- [史上最全面最详细的面试参考题你要吗?]()
 <!--giab:issue_list_end-->
