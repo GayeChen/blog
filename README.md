@@ -15,4 +15,5 @@
   - [面试题系列——性能优化](https://github.com/GayeChen/blog/issues/8)
   - [面试题系列——安全问题](https://github.com/GayeChen/blog/issues/9)
   - [面试题系列——算法问题](https://github.com/GayeChen/blog/issues/11)
+  - [面试题系列——设计模式](https://github.com/GayeChen/blog/issues/12)
 <!--giab:issue_list_end-->
