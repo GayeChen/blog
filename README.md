@@ -19,5 +19,5 @@
 <!--giab:issue_list_end-->
 
 #### React专栏
-  - setState真的是异步吗
-  - React diff算法
+  - [etState真的是异步吗?]
+  - [React diff算法]
