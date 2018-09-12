@@ -17,3 +17,7 @@
   - [面试题系列——算法问题](https://github.com/GayeChen/blog/issues/11)
   - [面试题系列——设计模式](https://github.com/GayeChen/blog/issues/12)
 <!--giab:issue_list_end-->
+
+#### React专栏
+  - setState真的是异步吗
+  - React diff算法
