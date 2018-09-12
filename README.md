@@ -19,5 +19,5 @@
 <!--giab:issue_list_end-->
 
 #### React专栏
-  - [etState真的是异步吗?](https://github.com/GayeChen/blog/issues/13)
+  - [setState真的是异步吗?](https://github.com/GayeChen/blog/issues/13)
   - [React diff算法](https://github.com/GayeChen/blog/issues/14)
