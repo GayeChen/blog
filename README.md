@@ -18,6 +18,9 @@
   - [面试题系列——设计模式](https://github.com/GayeChen/blog/issues/12)
 <!--giab:issue_list_end-->
 
+#### 工具篇
+  - [Chrome及Webstorm快捷键](https://github.com/GayeChen/blog/issues/13)
+
 #### React专栏
-  - [setState真的是异步吗?](https://github.com/GayeChen/blog/issues/13)
-  - [React diff算法](https://github.com/GayeChen/blog/issues/14)
+  - [setState真的是异步吗?](https://github.com/GayeChen/blog/issues/100)
+  - [React diff算法](https://github.com/GayeChen/blog/issues/100)
