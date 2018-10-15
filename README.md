@@ -24,3 +24,8 @@
 #### React专栏
   - [setState真的是异步吗?](https://github.com/GayeChen/blog/issues/100)
   - [React diff算法](https://github.com/GayeChen/blog/issues/100)
+  - [React16新特性](https://github.com/GayeChen/blog/issues/100)
+  - [React16新特性](https://github.com/GayeChen/blog/issues/100)
+  - [React高阶组件](https://github.com/GayeChen/blog/issues/100)
+  - [Redux性能优化](https://github.com/GayeChen/blog/issues/100)
+  
