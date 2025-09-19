@@ -8,7 +8,7 @@ Joycode（ 京东云 JoyCode，新一代智能编码 IDE 产品）： https://jo
 
 DongX.AI - 京东效能研发部基于cline插件开发的AI样板间解决方案
 
-以上选手都 在不同测试场景中使用相同prompt，都选用Claude4-Sonnet模型，
+以上选手 在不同测试场景中都使用相同prompt，选用相同模型：Claude4-Sonnet！！！
 
 
 ## 场景
