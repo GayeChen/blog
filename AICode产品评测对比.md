@@ -2,7 +2,7 @@ AI Code评测
 
 ## 选手
 
-Claude Code: 
+Claude Code: 号称最强编程助手
 
 Joycode（ 京东云 JoyCode，新一代智能编码 IDE 产品）： https://joycode.jd.com/
 
@@ -16,6 +16,7 @@ DongX.AI - 京东效能研发部 AI 样板间解决方案
 ##### 一、从祖传代码中封装通用组件
 
 
+Claude Code: 
 
 
 Joycode: 封装完组件以后，在组件替换步骤中，替换完模板有语法错误，然后自动撤销重试，进入了无限循环
