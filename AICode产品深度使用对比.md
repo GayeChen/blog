@@ -49,4 +49,8 @@ DongX.AI： 未修复，追问了多次，反反复复，在字段类型上修�
 
 <img width="1100" height="1518" alt="image" src="https://github.com/user-attachments/assets/ec44d453-c42d-44ae-b9f3-aab92d526432" />
 
+##### JoyCode
+
+在复杂的老页面替换复用一个公共组件时，出现语法报错，然后开始撤销代码，然后重新修改又出现语法报错，反反复复
+<img width="1078" height="1316" alt="image" src="https://github.com/user-attachments/assets/851f647a-4650-4f5b-90bc-1cbdc6a5391c" />
 
