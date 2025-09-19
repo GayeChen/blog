@@ -6,7 +6,7 @@ Claude Code: 号称最强编程助手
 
 Joycode（ 京东云 JoyCode，新一代智能编码 IDE 产品）： https://joycode.jd.com/
 
-DongX.AI - 京东效能研发部 AI 样板间解决方案
+DongX.AI - 京东效能研发部基于cline插件开发的AI样板间解决方案
 
 以上选手都 在不同测试场景中使用相同prompt，都选用Claude4-Sonnet模型，
 
@@ -38,5 +38,15 @@ Claude Code: 修复，多次追问下，找到了问题在于NTreeSelect内部�
 
 
 DongX.AI： 未修复，追问了多次，反反复复，在字段类型上修改了半天，没有发现根本问题，最终没修复
+
+
+
+## 各选手最频繁的问题
+
+##### DongX.AI
+
+经常因为文件太长，导致报错：Diff Edit Mismatch The model used search patterns that don't match anything in the file. Retrying...，而且无法恢复
+
+<img width="1100" height="1518" alt="image" src="https://github.com/user-attachments/assets/ec44d453-c42d-44ae-b9f3-aab92d526432" />
 
 
