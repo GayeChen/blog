@@ -53,6 +53,8 @@ Joycode: 失败：给出了主要方案，但是在codemirror中，展示了字�
 DongX.AI：失败：表现并且最拉胯，只提供了核心解析函数
 
 Claude Code: 成功：开始也是只提供了核心解析函数，一步步引导下，最终实现所有预期
+<img width="449" height="148" alt="image" src="https://github.com/user-attachments/assets/11a03b8e-3122-4c17-ae9d-73a3f22ef6fb" />
+
 
 
 
