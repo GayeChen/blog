@@ -46,7 +46,8 @@ Prompt：
 如下图所示，有这样的问题，codemirror中显示的number类型和右侧接口响应的数字不一致， "id2": 5.079056950790569e+39, 和 接口响应中："id2": 5079056950790569507905695079056950790569,并不一样，我希望codemirror的显示和接口响应完全一致，给我一个方案
 
 Joycode: 失败：给出了主要方案，但是在codemirror中，展示了字符串，不符合预期
-![Uploading image.png…]()
+<img width="716" height="308" alt="image" src="https://github.com/user-attachments/assets/d0071995-9cae-4e4e-b8cd-e7de76ca70d9" />
+
 
 
 DongX.AI：失败，表现并且最拉胯，只提供了核心解析函数，
